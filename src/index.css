@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url(./assets/prague-wallpaper-new-prague-wallpapers-hd-download-this-month-of-prague-wallpaper.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 code {
